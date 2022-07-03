@@ -3,3 +3,5 @@ Imam Resolusi
 - Mengembangkan diri untuk menjadi Front-End Developer
 - Belajar OOP PHP selama 3 hari
 - Belajar React JS
+- Membuat beberapa project dengan Javascript dahulu
+- Menguatkan fundamental ES6
